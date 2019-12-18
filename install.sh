@@ -25,3 +25,5 @@ sudo apt-get install wireshark -y
 sudo apt-get install -y binwalk
 
 pip install ropgadget
+
+sudo apt-get install rar -y
