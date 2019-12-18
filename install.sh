@@ -29,3 +29,4 @@ pip install ropgadget
 sudo apt-get install rar -y
 
 sudo apt-get install tmux -y
+sudo apt-get install vim -y
