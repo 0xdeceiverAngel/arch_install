@@ -27,3 +27,5 @@ sudo apt-get install -y binwalk
 pip install ropgadget
 
 sudo apt-get install rar -y
+
+sudo apt-get install tmux -y
