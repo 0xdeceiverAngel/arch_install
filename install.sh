@@ -25,10 +25,13 @@ sudo apt-get install tmux -y
 sudo apt-get install vim -y
 
 sudo apt install default-jdk -y
+sudo apt-get install gnome-tweak-too
+
+sudo apt-get install powerline -y
+sudo apt-get install fonts-powerline -y
 
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 chsh -s /bin/zsh
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
-sudo apt-get install powerline -y
-sudo apt-get install fonts-powerline -y
+
