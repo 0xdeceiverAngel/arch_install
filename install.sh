@@ -23,6 +23,7 @@ sudo apt-get install rar -y
 
 sudo apt-get install tmux -y
 sudo apt-get install vim -y
+sudo apt-get install radare2 -y
 
 sudo apt install default-jdk -y
 sudo apt-get install gnome-tweak-too
