@@ -36,3 +36,12 @@ chsh -s /bin/zsh
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 
+sudo apt install python-pip -y
+
+pip install opencv-python
+
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+
+sudo apt install nodejs -y
+
+sudo apt install npm -y
