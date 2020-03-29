@@ -45,3 +45,4 @@ python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy
 sudo apt install nodejs -y
 
 sudo apt install npm -y
+sudo apt install nodejs-legacy -y
