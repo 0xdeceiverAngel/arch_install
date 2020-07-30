@@ -1,4 +1,5 @@
 sudo apt-get update
+sudo apt dist-upgrade
 pip install --upgrade pip
 sudo apt-get install python3 python3-dev python3-pip git -y
 sudo pip3 install --upgrade git+https://github.com/arthaud/python3-pwntools.git
@@ -37,6 +38,7 @@ chsh -s /bin/zsh
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 
+
 sudo apt install python-pip -y
 
 pip install opencv-python
@@ -60,3 +62,5 @@ sudo apt-get update && \
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 
 sudo apt install docker-compose -y
+
+sudo apt install -y composer php-mysql php-fpm php-mbstring php-tokenizer php-xml php-json php-common nginx mariadb-server
